@@ -21,7 +21,7 @@ from nameko.dependencies import (
     entrypoint, injection, InjectionProvider, EntrypointProvider,
     DependencyFactory, dependency, ProviderCollector, DependencyProvider,
     CONTAINER_SHARED)
-from nameko.exceptions import IncorrectSignature, ContainerBeingKilled
+from nameko.exceptions import ContainerBeingKilled
 
 _log = getLogger(__name__)
 
