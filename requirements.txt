@@ -5,3 +5,4 @@ kombu==3.0.4
 mock==1.0.1
 path.py==5.1
 pyrabbit==1.0.1
+Werkzeug==0.9.6
